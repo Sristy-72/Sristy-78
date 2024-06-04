@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sristy-72&label=Profile%20views&color=0e75b6&style=flat" alt="sristy-72" /> </p>
 
-- 🌱 I’m currently learning **DSA,React,Python**
+- 🌱 I’m currently learning **DSA,React**
 
 - 👨‍💻 All of my projects are available at [https://sristy-portfolio.netlify.app/](https://sristy-portfolio.netlify.app/)
 
