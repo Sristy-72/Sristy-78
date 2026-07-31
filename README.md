@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sristy-72&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-I'm a Computer Science undergraduate who enjoys building full-stack web applications and solving challenging algorithmic problems. I like turning ideas into products that are clean, scalable, and user-friendly.
+I'm a Computer Science Graduate who enjoys building full-stack web applications and solving challenging algorithmic problems. I like turning ideas into products that are clean, scalable, and user-friendly.
 
 * Currently improving my **MERN Stack** skills
 * Solved **300+ DSA problems**
